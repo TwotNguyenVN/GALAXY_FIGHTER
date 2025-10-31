@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|d:\\documents\\code\\chien_co_huyen_thoai\\chien_co_huyen_thoai\\gui\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|solutionrelative:gui\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E70163D-CFC0-4599-8D7D-DA52EFE84EB4}|BUS\\BUS.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\bus\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E70163D-CFC0-4599-8D7D-DA52EFE84EB4}|BUS\\BUS.csproj|solutionrelative:bus\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\gui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|solutionrelative:gui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\gui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|solutionrelative:gui\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\gui\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|solutionrelative:gui\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\gui\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|solutionrelative:gui\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\gui\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|solutionrelative:gui\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\gui\\leaderboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|solutionrelative:gui\\leaderboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\gui\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|solutionrelative:gui\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\gui\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|solutionrelative:gui\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\gui\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|solutionrelative:gui\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\gui\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|solutionrelative:gui\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\gui\\leaderboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|solutionrelative:gui\\leaderboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E70163D-CFC0-4599-8D7D-DA52EFE84EB4}|BUS\\BUS.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\bus\\services\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E70163D-CFC0-4599-8D7D-DA52EFE84EB4}|BUS\\BUS.csproj|solutionrelative:bus\\services\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E70163D-CFC0-4599-8D7D-DA52EFE84EB4}|BUS\\BUS.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\bus\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E70163D-CFC0-4599-8D7D-DA52EFE84EB4}|BUS\\BUS.csproj|solutionrelative:bus\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E70163D-CFC0-4599-8D7D-DA52EFE84EB4}|BUS\\BUS.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\bus\\services\\coinsledgerstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E70163D-CFC0-4599-8D7D-DA52EFE84EB4}|BUS\\BUS.csproj|solutionrelative:bus\\services\\coinsledgerstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\gui\\aboutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD222D69-73F2-4ADA-A527-F3D6DB4FEBF3}|GUI\\GUI.csproj|solutionrelative:gui\\aboutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\GameForm.cs",
+              "RelativeDocumentMoniker": "GUI\\GameForm.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CCHT\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\GameForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\CCHT\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T02:29:48.351Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\GameForm.cs",
+              "RelativeDocumentMoniker": "GUI\\GameForm.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\GameForm.cs",
+              "RelativeToolTip": "GUI\\GameForm.cs",
+              "ViewState": "AgIAAP0MAAAAAAAAAAAowCkNAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:31:21.637Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GUI",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\GUI.csproj",
+              "RelativeDocumentMoniker": "GUI\\GUI.csproj",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\GUI.csproj",
+              "RelativeToolTip": "GUI\\GUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-27T09:06:41.267Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenuForm.cs",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "GUI\\MainMenuForm.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\MainMenuForm.cs",
+              "RelativeToolTip": "GUI\\MainMenuForm.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAA5wMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:20:15.497Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutForm.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\AboutForm.cs",
+              "RelativeDocumentMoniker": "GUI\\AboutForm.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\AboutForm.cs [Design]",
+              "RelativeToolTip": "GUI\\AboutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:10:26.554Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\Audio.cs",
+              "RelativeDocumentMoniker": "GUI\\Audio.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\Audio.cs",
+              "RelativeToolTip": "GUI\\Audio.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAiwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:49:45.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\BUS\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "BUS\\Services\\GameService.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\BUS\\Services\\GameService.cs",
+              "RelativeToolTip": "BUS\\Services\\GameService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:57:51.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutForm.cs",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\AboutForm.cs",
+              "RelativeDocumentMoniker": "GUI\\AboutForm.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\AboutForm.cs",
+              "RelativeToolTip": "GUI\\AboutForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:52:26.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaderboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\LeaderboardForm.cs",
+              "RelativeDocumentMoniker": "GUI\\LeaderboardForm.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CCHT\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\LeaderboardForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\CCHT\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\LeaderboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:09:58.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SettingsForm.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "GUI\\SettingsForm.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CCHT\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\SettingsForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\CCHT\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\SettingsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:29:48.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "GUI\\SettingsForm.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\SettingsForm.cs",
+              "RelativeToolTip": "GUI\\SettingsForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:29:51.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaderboardForm.cs",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\LeaderboardForm.cs",
+              "RelativeDocumentMoniker": "GUI\\LeaderboardForm.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\LeaderboardForm.cs",
+              "RelativeToolTip": "GUI\\LeaderboardForm.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:38:45.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "GUI\\ProfileForm.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CCHT\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\CCHT\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\ProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:30:50.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "GUI\\ProfileForm.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\ProfileForm.cs",
+              "RelativeToolTip": "GUI\\ProfileForm.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAIwOUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T17:30:52.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPlayerService.cs",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\BUS\\Services\\IPlayerService.cs",
+              "RelativeDocumentMoniker": "BUS\\Services\\IPlayerService.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\BUS\\Services\\IPlayerService.cs",
+              "RelativeToolTip": "BUS\\Services\\IPlayerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:57:16.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\BUS\\Services\\IGameService.cs",
+              "RelativeDocumentMoniker": "BUS\\Services\\IGameService.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\BUS\\Services\\IGameService.cs",
+              "RelativeToolTip": "BUS\\Services\\IGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:57:40.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoinsLedgerStore.cs",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\BUS\\Services\\CoinsLedgerStore.cs",
+              "RelativeDocumentMoniker": "BUS\\Services\\CoinsLedgerStore.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\BUS\\Services\\CoinsLedgerStore.cs",
+              "RelativeToolTip": "BUS\\Services\\CoinsLedgerStore.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:10:45.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AboutForm.Designer.cs",
+              "DocumentMoniker": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\AboutForm.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\AboutForm.Designer.cs",
+              "ToolTip": "D:\\Documents\\CODE\\CHIEN_CO_HUYEN_THOAI\\CHIEN_CO_HUYEN_THOAI\\GUI\\AboutForm.Designer.cs",
+              "RelativeToolTip": "GUI\\AboutForm.Designer.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAEwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:08:20.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
