@@ -1,4 +1,4 @@
-﻿namespace GUI
+namespace GUI
 {
     partial class AboutForm
     {
@@ -7,7 +7,6 @@
         private System.Windows.Forms.Label lblTitle;
         private System.Windows.Forms.Label lblVersion;
         private System.Windows.Forms.TextBox txtDesc;
-        private System.Windows.Forms.GroupBox grpShortcuts;
         private System.Windows.Forms.Label lblShortcuts;
         private System.Windows.Forms.LinkLabel lnkProject;
         private System.Windows.Forms.Button btnOk;
@@ -25,7 +24,6 @@
             this.lblTitle = new System.Windows.Forms.Label();
             this.lblVersion = new System.Windows.Forms.Label();
             this.txtDesc = new System.Windows.Forms.TextBox();
-            this.grpShortcuts = new System.Windows.Forms.GroupBox();
             this.lblShortcuts = new System.Windows.Forms.Label();
             this.lnkProject = new System.Windows.Forms.LinkLabel();
             this.btnOk = new System.Windows.Forms.Button();
@@ -63,21 +61,11 @@
             this.txtDesc.TabIndex = 4;
             this.txtDesc.Text = resources.GetString("txtDesc.Text");
             // 
-            // grpShortcuts
-            // 
-            this.grpShortcuts.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.grpShortcuts.Location = new System.Drawing.Point(23, 144);
-            this.grpShortcuts.Name = "grpShortcuts";
-            this.grpShortcuts.Size = new System.Drawing.Size(591, 186);
-            this.grpShortcuts.TabIndex = 5;
-            this.grpShortcuts.TabStop = false;
-            this.grpShortcuts.Text = "Danh sách thành viên";
-            // 
             // lblShortcuts
             // 
             this.lblShortcuts.AutoSize = true;
             this.lblShortcuts.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblShortcuts.Location = new System.Drawing.Point(645, 164);
+            this.lblShortcuts.Location = new System.Drawing.Point(23, 144);
             this.lblShortcuts.Name = "lblShortcuts";
             this.lblShortcuts.Size = new System.Drawing.Size(300, 150);
             this.lblShortcuts.TabIndex = 0;
@@ -93,7 +81,7 @@
             this.lnkProject.Size = new System.Drawing.Size(289, 16);
             this.lnkProject.TabIndex = 6;
             this.lnkProject.TabStop = true;
-            this.lnkProject.Text = "https://gemini.google.com/share/1779864d1d97";
+            this.lnkProject.Text = "https://github.com/TwotNguyenVN/GALAXY_FIGHTER";
             this.lnkProject.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkProject_LinkClicked_1);
             // 
             // btnOk
@@ -127,7 +115,6 @@
             this.Controls.Add(this.lblShortcuts);
             this.Controls.Add(this.btnOk);
             this.Controls.Add(this.lnkProject);
-            this.Controls.Add(this.grpShortcuts);
             this.Controls.Add(this.lblVersion);
             this.Controls.Add(this.lblTitle);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;

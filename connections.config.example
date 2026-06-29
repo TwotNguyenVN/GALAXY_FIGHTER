@@ -1,0 +1,3 @@
+<connectionStrings>
+    <add name="GameDbContext" connectionString="data source=YOUR_IP_HERE,1433;initial catalog=CCHT;persist security info=True;user id=sa;password=YOUR_PASSWORD_HERE;trustservercertificate=True;MultipleActiveResultSets=True;App=EntityFramework" providerName="System.Data.SqlClient" />
+</connectionStrings>

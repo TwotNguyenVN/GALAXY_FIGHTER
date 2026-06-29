@@ -1,4 +1,4 @@
-﻿namespace GUI
+namespace GUI
 {
     partial class MainMenuForm
     {
@@ -56,7 +56,7 @@
             this.lblTitle.BackColor = System.Drawing.Color.Transparent;
             this.lblTitle.Font = new System.Drawing.Font("Segoe UI", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.ForeColor = System.Drawing.Color.Gainsboro;
-            this.lblTitle.Location = new System.Drawing.Point(144, 19);
+            this.lblTitle.Location = new System.Drawing.Point(194, 20);
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Size = new System.Drawing.Size(471, 86);
             this.lblTitle.TabIndex = 0;
@@ -68,7 +68,7 @@
             this.lblPlayer.BackColor = System.Drawing.Color.Transparent;
             this.lblPlayer.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.lblPlayer.ForeColor = System.Drawing.Color.White;
-            this.lblPlayer.Location = new System.Drawing.Point(28, 74);
+            this.lblPlayer.Location = new System.Drawing.Point(30, 20);
             this.lblPlayer.Name = "lblPlayer";
             this.lblPlayer.Size = new System.Drawing.Size(77, 19);
             this.lblPlayer.TabIndex = 1;
@@ -80,7 +80,7 @@
             this.lblCoins.BackColor = System.Drawing.Color.Transparent;
             this.lblCoins.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.lblCoins.ForeColor = System.Drawing.Color.White;
-            this.lblCoins.Location = new System.Drawing.Point(28, 98);
+            this.lblCoins.Location = new System.Drawing.Point(30, 45);
             this.lblCoins.Name = "lblCoins";
             this.lblCoins.Size = new System.Drawing.Size(58, 19);
             this.lblCoins.TabIndex = 2;
@@ -89,17 +89,17 @@
             // txtPlayerName
             // 
             this.txtPlayerName.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.txtPlayerName.Location = new System.Drawing.Point(32, 132);
+            this.txtPlayerName.Location = new System.Drawing.Point(80, 130);
             this.txtPlayerName.Name = "txtPlayerName";
-            this.txtPlayerName.Size = new System.Drawing.Size(276, 20);
+            this.txtPlayerName.Size = new System.Drawing.Size(200, 20);
             this.txtPlayerName.TabIndex = 3;
             // 
             // btnRename
             // 
             this.btnRename.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.btnRename.Location = new System.Drawing.Point(57, 162);
+            this.btnRename.Location = new System.Drawing.Point(80, 165);
             this.btnRename.Name = "btnRename";
-            this.btnRename.Size = new System.Drawing.Size(110, 25);
+            this.btnRename.Size = new System.Drawing.Size(95, 30);
             this.btnRename.TabIndex = 4;
             this.btnRename.Text = "Đổi tên";
             this.btnRename.UseVisualStyleBackColor = true;
@@ -108,9 +108,9 @@
             // btnLoginSwitch
             // 
             this.btnLoginSwitch.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.btnLoginSwitch.Location = new System.Drawing.Point(173, 162);
+            this.btnLoginSwitch.Location = new System.Drawing.Point(185, 165);
             this.btnLoginSwitch.Name = "btnLoginSwitch";
-            this.btnLoginSwitch.Size = new System.Drawing.Size(110, 25);
+            this.btnLoginSwitch.Size = new System.Drawing.Size(95, 30);
             this.btnLoginSwitch.TabIndex = 5;
             this.btnLoginSwitch.Text = "Đăng nhập";
             this.btnLoginSwitch.UseVisualStyleBackColor = true;
@@ -119,21 +119,25 @@
             // btnPlay
             // 
             this.btnPlay.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnPlay.BackColor = System.Drawing.Color.OrangeRed;
+            this.btnPlay.FlatAppearance.BorderSize = 0;
+            this.btnPlay.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPlay.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPlay.Location = new System.Drawing.Point(101, 202);
+            this.btnPlay.ForeColor = System.Drawing.Color.White;
+            this.btnPlay.Location = new System.Drawing.Point(80, 220);
             this.btnPlay.Name = "btnPlay";
-            this.btnPlay.Size = new System.Drawing.Size(143, 44);
+            this.btnPlay.Size = new System.Drawing.Size(200, 50);
             this.btnPlay.TabIndex = 0;
             this.btnPlay.Text = "► Play";
-            this.btnPlay.UseVisualStyleBackColor = true;
+            this.btnPlay.UseVisualStyleBackColor = false;
             this.btnPlay.Click += new System.EventHandler(this.btnPlay_Click);
             // 
             // btnSettings
             // 
             this.btnSettings.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.btnSettings.Location = new System.Drawing.Point(71, 261);
+            this.btnSettings.Location = new System.Drawing.Point(80, 280);
             this.btnSettings.Name = "btnSettings";
-            this.btnSettings.Size = new System.Drawing.Size(200, 34);
+            this.btnSettings.Size = new System.Drawing.Size(200, 35);
             this.btnSettings.TabIndex = 7;
             this.btnSettings.Text = "Settings";
             this.btnSettings.UseVisualStyleBackColor = true;
@@ -142,9 +146,9 @@
             // btnLeaderboard
             // 
             this.btnLeaderboard.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.btnLeaderboard.Location = new System.Drawing.Point(71, 301);
+            this.btnLeaderboard.Location = new System.Drawing.Point(80, 325);
             this.btnLeaderboard.Name = "btnLeaderboard";
-            this.btnLeaderboard.Size = new System.Drawing.Size(200, 34);
+            this.btnLeaderboard.Size = new System.Drawing.Size(200, 35);
             this.btnLeaderboard.TabIndex = 8;
             this.btnLeaderboard.Text = "Leaderboard";
             this.btnLeaderboard.UseVisualStyleBackColor = true;
@@ -153,9 +157,9 @@
             // btnProfile
             // 
             this.btnProfile.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.btnProfile.Location = new System.Drawing.Point(71, 341);
+            this.btnProfile.Location = new System.Drawing.Point(80, 370);
             this.btnProfile.Name = "btnProfile";
-            this.btnProfile.Size = new System.Drawing.Size(200, 34);
+            this.btnProfile.Size = new System.Drawing.Size(200, 35);
             this.btnProfile.TabIndex = 9;
             this.btnProfile.Text = "Profile";
             this.btnProfile.UseVisualStyleBackColor = true;
@@ -164,9 +168,9 @@
             // btnAbout
             // 
             this.btnAbout.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.btnAbout.Location = new System.Drawing.Point(71, 381);
+            this.btnAbout.Location = new System.Drawing.Point(80, 415);
             this.btnAbout.Name = "btnAbout";
-            this.btnAbout.Size = new System.Drawing.Size(200, 34);
+            this.btnAbout.Size = new System.Drawing.Size(200, 35);
             this.btnAbout.TabIndex = 10;
             this.btnAbout.Text = "About";
             this.btnAbout.UseVisualStyleBackColor = true;
@@ -175,9 +179,9 @@
             // btnExit
             // 
             this.btnExit.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.btnExit.Location = new System.Drawing.Point(600, 384);
+            this.btnExit.Location = new System.Drawing.Point(740, 480);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(96, 32);
+            this.btnExit.Size = new System.Drawing.Size(100, 35);
             this.btnExit.TabIndex = 11;
             this.btnExit.Text = "Thoát";
             this.btnExit.UseVisualStyleBackColor = true;
@@ -195,9 +199,9 @@
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox2.Image = global::GUI.Properties.Resources.ship_36;
-            this.pictureBox2.Location = new System.Drawing.Point(357, 129);
+            this.pictureBox2.Location = new System.Drawing.Point(450, 140);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(229, 246);
+            this.pictureBox2.Size = new System.Drawing.Size(280, 300);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 13;
             this.pictureBox2.TabStop = false;
@@ -207,7 +211,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(22)))), ((int)(((byte)(28)))));
             this.BackgroundImage = global::GUI.Properties.Resources.bg_space_mid;
-            this.ClientSize = new System.Drawing.Size(720, 440);
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(860, 540);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.lblTitle);

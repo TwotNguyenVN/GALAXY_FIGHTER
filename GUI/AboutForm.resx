@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,6 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="txtDesc.Text" xml:space="preserve">
-    <value>Chúng tôi là một nhóm sinh viên môn Lập trình WinForms, và trò chơi này là đồ án học phần của nhóm. Mục tiêu của dự án là vừa fun, vừa “chuẩn kỹ thuật”: kiến trúc 3 lớp tách biệt giao diện–nghiệp vụ–dữ liệu, EF6 cho truy vấn/ghi log phiên chơi, và một lớp dịch vụ chuyên trách kết nối tới SQL Server qua Tailscale để tiện thử nghiệm đa máy. Về gameplay, người chơi lướt tàu bằng chuột, nhả đạn bằng chuột trái, theo dõi thanh Heat để tránh overheat, nhặt pickup để đổi màu đạn/nâng cấp, chiến boss theo từng wave, và tích lũy coin cho bảng xếp hạng. Phần Leaderboard và Profile giúp so kè điểm, coin trọn đời và lịch sử phiên; Settings cho phép tinh chỉnh trải nghiệm; About cung cấp thông tin phiên bản và nhóm phát triển. Với tinh thần học–làm thực tế, chúng tôi ưu tiên mã nguồn dễ đọc, dễ mở rộng, và đặt nặng tính ổn định/ghi nhận dữ liệu, để sau này có thể bổ sung thêm hiệu ứng đồ họa, vũ khí, màn chơi và sự kiện đặc biệt.</value>
+    <value>GALAXY_FIGHTER là một tựa game 2D không chiến (space shooter) cổ điển, được phát triển trên nền tảng C# Windows Forms. Trò chơi kết hợp lối chơi giải trí nhịp độ nhanh với kiến trúc mã nguồn chuẩn mực.
+
+Mục tiêu của dự án là xây dựng một sản phẩm hoàn chỉnh, tuân thủ kiến trúc 3 lớp (3-Tier) tách biệt giữa giao diện (GUI), xử lý nghiệp vụ (BUS) và tương tác cơ sở dữ liệu (DAL). Game sử dụng Entity Framework để quản lý và lưu trữ thông tin cấu hình, người chơi, cũng như các điểm số trên bảng xếp hạng (Leaderboard) một cách xuyên suốt.
+
+Về mặt Gameplay, người chơi sẽ điều khiển phi thuyền lướt qua các làn đạn, tiêu diệt nhiều loại kẻ địch khác nhau và thu thập vật phẩm nâng cấp trên đường đi. Game có tích hợp cơ chế theo dõi quá nhiệt (heat bar) để đòi hỏi sự khéo léo thay vì chỉ giữ nút bắn, mang lại một trải nghiệm vừa quen thuộc vừa đầy thách thức.</value>
   </data>
 </root>
