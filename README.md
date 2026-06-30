@@ -70,8 +70,8 @@ Dự án tuân thủ nghiêm ngặt mô hình **3-Tier Architecture**:
 
 ### 2. Cài Đặt & Cấu Hình Database
 1. Clone hoặc tải mã nguồn dự án về máy và mở file `CHIEN_CO_HUYEN_THOAI.sln` bằng Visual Studio.
-2. Copy file `connections.config.example` ra một bản sao và đổi tên thành `connections.config`.
-3. Mở file `connections.config` và cấu hình chuỗi kết nối tới SQL Server của bạn:
+2. Vào thư mục `GUI`, copy file `connections.config.example` ra một bản sao và đổi tên thành `connections.config`.
+3. Mở file `connections.config` (nằm trong thư mục `GUI`) và cấu hình chuỗi kết nối tới SQL Server của bạn:
    - Điền IP/Tên máy chủ vào phần `Data Source`.
    - Điền `User ID` và `Password` (hoặc dùng Windows Authentication).
    > **Lưu ý:** File này đã được cấu hình trong `.gitignore` để đảm bảo bảo mật thông tin database của bạn.
